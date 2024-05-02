@@ -8,3 +8,9 @@ struct node {
     node* next;
     node* prev;
 }
+
+Node* START = NULL;
+
+void addNode(){
+    
+}
